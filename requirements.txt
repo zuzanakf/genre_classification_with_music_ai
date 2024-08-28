@@ -1,1 +1,2 @@
 musicai_sdk
+dotenv
