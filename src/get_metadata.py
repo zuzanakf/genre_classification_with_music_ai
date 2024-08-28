@@ -5,7 +5,7 @@ from musicai_sdk import MusicAiClient, process_folder
 #API key
 api_key = os.getenv('MUSICAI_API_KEY')
 
-# Initialize client
+#client
 client = MusicAiClient(api_key=api_key)
 
 # input and output folders and the workflow ID
