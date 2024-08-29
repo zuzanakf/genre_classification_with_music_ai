@@ -1,4 +1,4 @@
-Artist (lyrics),Track,mp3/wav,Genre,Lyrics
+Artist (lyrics),Track,mp3/wav,Genre,Lyrics,musicai_gen_genre,Result - musicai_mood,Result - musicai_energy,Result - musicai_emotion,Result - musicai_subgenre
 Chase & Status and Stormzy,BACKBONE,Chase & Status and Stormzy - BACKBONE.mp3,"uk dance, drum and bass, dancefloor dnb, uk hip hop, grime","Check
 
 Ten toes ain't nine toes
@@ -85,7 +85,7 @@ My mother calls me Mike, but I think I'm the shit
 
 Don't tell us how it used to be, just tell us what it is
 
-They never gave me nothin', so it's fair I take the piss, pussy"
+They never gave me nothin', so it's fair I take the piss, pussy","[""rapHipHop"",""electronicDance""]","[""energetic"",""aggressive"",""uplifting""]",high,balanced,"[""breakbeatDnB"",""popRap"",""trap""]"
 Bru-C,No Excuses,Bru-C - No Excuses (ezmp3.cc),"nottingham hip hop, charva, bassline","[Intro]
 
 Oy
@@ -248,7 +248,7 @@ Guarantee tonight, I could make you one
 
 Yeah, yeah-eh, I
 
-Bru-C"
+Bru-C",,,,,
 LISA feat. Rosalia,New Woman,LISA - NEW WOMAN feat. Rosalía (Official Music Video).mp3,"pop, r&b en espanol, k-pop","Here I go
 Bangin’ it, bangin’ it, wanna crack these walls
 Bangin’ it, bangin’ it,
@@ -325,7 +325,7 @@ Bad luck a sucker, gotta make you tougher
 Tryna say you suffer
 Oh, don’t blame your mother
 Elevate, I liberate a new frontier
-I’m a new woma"
+I’m a new woma","[""rnb""]","[""energetic"",""sexy"",""happy""]",high,positive,[]
 Shaun Mendes,Why Why Why,Shawn Mendes - Why Why Why.mp3,"viral pop, pop, canadian pop","Opened up my journal to a page
 Everything that hurts me's still the same
 Feels like there's nothin' new for me to say
@@ -360,7 +360,7 @@ Why, why, why?
 Feels like everything goes 'round and 'round
 And 'round, and 'round, and 'round it goes (yeah)
 Feels like everything goes 'round and 'round
-And 'round, and 'round, and 'round it goes"
+And 'round, and 'round, and 'round it goes",,,,,
 Skepta,Nasty,Skepta - Nasty.mp3,grime,"[Intro]
 You're not real
 Yeah, yeah
@@ -411,7 +411,7 @@ And if you ever gave me an ounce of skunk, pussy, I wouldn't pay you a penny
 Wun Sen
 Keep my name out of your nasty mouth
 Your nasty lyrics
-Nasty"
+Nasty",,,,,
 Yizzy,3 Minutes to Live,Yizzy - 3 Minutes to Live.mp3,"grime, uk melodic rap","That’s right,
 I’m on the floor tryna fight for my life,
 It’s that, same old story,
@@ -502,14 +502,14 @@ For the last time I’m not ready to leave
 what’s that daylight that a brudda can see if i just believe, nobody grieves,
 Hold up lemme just try and breathe,
 
-*GASP*"
+*GASP*",,,,,
 Avicii,Levels,Avicii - Levels.mp3,"pop, edm, dance pop, pop dance","[Chorus: Etta James]
 Oh, sometimes I get a good feeling, yeah
 Get a feeling that I never, never, never, never had before, no no
 I get a good feeling, yeah
 Oh, sometimes I get a good feeling, yeah
 Get a feeling that I never, never, never, never had before, no no
-I get a good feeling, yeah"
+I get a good feeling, yeah","[""electronicDance""]","[""happy"",""uplifting"",""energetic""]",high,positive,"[""house""]"
 Calvin Harris,Summer,Calvin Harris - Summer.mp3,"uk dance, progressive house, pop, house, electro house, edm, dance pop","[Chorus]
 When I met you in the summer
 To my heartbeat's sound
@@ -549,7 +549,7 @@ Summer (Summer)
 (Love)
 (Yeah)
 
-[Drop]"
+[Drop]","[""electronicDance""]","[""happy"",""energetic"",""uplifting""]",high,positive,"[""electro"",""house"",""trance""]"
 A$AP Rocky,HIGHJACK,A$AP Rocky - HIGHJACK (Official Video).mp3,"rap, hip hip, freak folk, art pop, ambient folk, east coast hip hop","Like that
 They hit my phone, talkin' shit, and I don't like that
 Niggas talk about me, where they at? It's just like that
@@ -624,7 +624,7 @@ You wish you stayed
 (You wish you stayed)
 (Devil's inside homes all alone, bitches like that)
 And when I'm gone
-Ooh, ooh, ooh, ooh-oh"
+Ooh, ooh, ooh, ooh-oh","[""rapHipHop""]","[""energetic""]",variable,balanced,"[""trap""]"
 The Fugees,How Many Mics,Fugees - How Many Mics.mp3,"hip hop, r&b, neo soul, east coast hip hop, new jersey rap, rap kreyol, conscious hip hop, alternative r&b","Pick up your microphones, ha ha
 Pick up your microphones
 How many mic's do we rip on the daily?
@@ -725,7 +725,7 @@ How many mic's do we rip on the daily?
 Many moni, say me say many, many, many
 How many mic's do we rip on the daily?
 Many moni, say me say many, many, many, many
-Many, many, many, moni, many, many, many, many, many, many, moni"
+Many, many, many, moni, many, many, many, many, many, many, moni","[""rapHipHop""]","[""chilled"",""energetic"",""happy""]",medium,positive,"[""jazzyHipHop""]"
 WILLOW,b i g f e e l i n g s,WILLOW - b i g f e e l i n g s.mp3,"pov: indie, post-teen pop, pop, afrofuturism","I have such big feelings
 Can't shut 'em down without a sound
 I have such big feelings
@@ -781,8 +781,8 @@ I know I got, I know you got problems
 I know I got, I know you got problems, problems
 Yes, I have so many problems
 Problems, problems
-Yes, I have so many problems"
-Thylacine,Anatolia,THYLACINE - Anatolia.mp3,"new french touch, french indietronica, french indie hop",[instrumental]
+Yes, I have so many problems",,,,,
+Thylacine,Anatolia,THYLACINE - Anatolia.mp3,"new french touch, french indietronica, french indie hop",[instrumental],,,,,
 System Of A Down,B.Y.O.B,System Of A Down - B.Y.O.B..mp3,"rock, rap metal, nu metal, alternative metal","You
 Why do they always send the poor?
 
@@ -867,7 +867,7 @@ Why do they always send the poor?
 Why do they always send the poor?
 Why do they always send the poor?
 They always send the poor
-They always send the poor"
+They always send the poor",,,,,
 Eminem,Rap God,Eminem - Rap God.mp3,"rap, hip hop, detroit hip hop","Look, I was gonna go easy on you not to hurt your feelings
 But I'm only going to get this one chance (six minutes-, six minutes-)
 Something's wrong, I can feel it (six minutes, Slim Shady, you're on!)
@@ -1056,7 +1056,7 @@ Don't mistake him for Satan; it's a fatal mistake
 If you think I need to be overseas and take a vacation
 To trip a broad, and make her fall on her face and
 Don't be a retard, be a king? Think not
-Why be a king when you can be a god?"
+Why be a king when you can be a god?","[""rapHipHop""]","[""energetic""]",high,balanced,"[""gangsta""]"
 Plain White Ts,Hey There Delilah,Plain White T's - Hey There Delilah.mp3,"pop rock, pop punk, neo pop punk, neo mellow, modern rock","Hey there, Delilah
 What's it like in New York city?
 I'm a thousand miles away
@@ -1128,7 +1128,7 @@ What you do to me
 
 Oh, whoa, whoa
 Oh whoa, oh
-Oh, oh"
+Oh, oh",,,,,
 Beyonce,Texas Hold ‘Em,Beyoncé - TEXAS HOLD 'EM.mp3,"r&b, pop","This ain't Texas (woo), ain't no hold 'em (hey)
 So lay your cards down, down, down, down
 So park your Lexus (woo) and throw your keys up (hey)
@@ -1200,7 +1200,7 @@ Come take it to the floor now, ooh
 And I'll be damned if I cannot dance with you
 Baby, pour that sugar and liquor on me too
 Furs, spurs, boots
-Solargenic, photogenic, shoot"
+Solargenic, photogenic, shoot","[""pop""]","[""happy"",""energetic"",""chilled""]",high,positive,[]
 Dolly Parton,9 to 5,Dolly Parton - 9 To 5.mp3,"country dawn, country, classic country pop","[Verse 1]
 Tumble out of bed and I stumble to the kitchen
 Pour myself a cup of ambition
@@ -1244,7 +1244,7 @@ It's enough to drive you crazy if you let it
 Nine to five, yeah, they got you where they want you
 There's a better life and you think about it don't you
 It's a rich man's game no matter what they call it
-And you spend your life puttin' money in his wallet"
+And you spend your life puttin' money in his wallet","[""funkSoul"",""folkCountry""]","[""happy""]",high,positive,"[""country"",""soul""]"
 The Chicks,Wide Open Spaces,The Chicks - Wide Open Spaces.mp3,"country dawn, country, contemporary country","[Verse 1]
 Who doesn't know what I'm talkin' about
 Who's never left home, who's never struck out
@@ -1305,7 +1305,7 @@ She needs, wide open spaces
 Room to make her big mistakes
 She needs, new faces
 She knows the high stakes
-She knows the high stakes"
+She knows the high stakes",,,,,
 Taylor Swift,Stay Beautiful,Taylor Swift - Stay Beautiful.mp3,pop,"[Verse 1]
 Cory's eyes are like a jungle
 He smiles, it's like the radio
@@ -1365,11 +1365,11 @@ Oh-oh-oh
 Oh-oh-oh-oh
 Oh, but if it don't
 Stay beautiful, stay beautiful
-Na-na-na, na-na"
-Tanhai Collective,Ode Two,Ode Two - Tanhai Collective.mp3,"jazz,jazz,fusion,new jazz,improvisation,nu-jazz,uk,jazz,London",[Instrumental]
-Galt MacDermot,Coffee Cold,Galt MacDermot – Coffee Cold.mp3,jazz (no spotify genre),[Instrumental]
-Kokolo,Soul Power - Lack of Afro Remix,Kokolo – Soul Power (Lack of Afro Remix).mp3,"afrobeat, bboy, british soul, brass band, instrumental funk",[instrumental]
-Orgone,Open Season,Orgone - Open Season.mp3DB%20-%20songs%2068e5e0294c7144f684f24736db3d0a4d/Orgone_-_Open_Season.mp3,"modern funk, instrumental funk, brass band, afrobeat",[instrumental]
+Na-na-na, na-na",,,,,
+Tanhai Collective,Ode Two,Ode Two - Tanhai Collective.mp3,"jazz,jazz,fusion,new jazz,improvisation,nu-jazz,uk,jazz,London",[Instrumental],"[""jazz""]","[""chilled"",""energetic"",""happy""]",variable,balanced,"[""contemporaryJazz"",""fusion"",""smoothJazz""]"
+Galt MacDermot,Coffee Cold,Galt MacDermot – Coffee Cold.mp3,jazz (no spotify genre),[Instrumental],,,,,
+Kokolo,Soul Power - Lack of Afro Remix,Kokolo – Soul Power (Lack of Afro Remix).mp3,"afrobeat, bboy, british soul, brass band, instrumental funk",[instrumental],,,,,
+Orgone,Open Season,Orgone - Open Season.mp3DB%20-%20songs%2068e5e0294c7144f684f24736db3d0a4d/Orgone_-_Open_Season.mp3,"modern funk, instrumental funk, brass band, afrobeat",[instrumental],,,,,
 Eliza Rose,B.O.T.A.,Eliza Rose & Interplanetary Criminal - B.O.T.A. (Baddest Of Them All).mp3,"house, breaks, experimental house","She's the baddest of them all
 The baddest of them all
 She's the baddest of them all
@@ -1418,7 +1418,7 @@ I need something to wake me up, something to faze me
 Do you wanna kiss, maybe?
 I know I seen you lookin' at me, wanna date me?
 Ooh, I feel my knees start shaking
-Everything you do, it just seems to amaze me"
+Everything you do, it just seems to amaze me","[""electronicDance""]","[""happy""]",high,positive,"[""house""]"
 Barrington Levi,Black Roses,Black Roses.mp3,"reggae, roots reggae, reggae fusion","In my garden
 Black, black roses in my garden
 
@@ -1456,7 +1456,7 @@ Sure, sure, sure I've got to stay
 And take good care of the roses
 Go to see, go to see that's so special to me
 My garden, my garden is so special yeah
-Black, black roses is blooming in my garden"
+Black, black roses is blooming in my garden","[""reggae""]","[""chilled""]",medium,positive,[]
 Toots and the Maytals,54-56 Was My Number,The Maytals - 54 46 Was My Number.mp3,"reggae, ska, roots reggae","Stick it up, mister!
 Hear what I say sir, yeah yeah
 Get your hands in the air, sir!
@@ -1499,7 +1499,7 @@ Give it to me one time (huh)
 Give it to me two times (huh-huh)
 Gimme, gimme, gimme, gimme, gimme, gimme
 Gimme, gimme, gimme, gimme
-No, no, no, no"
+No, no, no, no",,,,,
 Metallica,Enter Sandman,Metallica - Enter Sandman.mp3,"rock, hard rock, metal, old school thrash, thrash metal","Say your prayers, little one
 Don't forget, my son
 To include everyone
@@ -1558,7 +1558,7 @@ Take my hand
 We're off to never-never land
 We're off to never-never land
 We're off to never-never land
-We're off to never-never land"
+We're off to never-never land","[""metal"",""rock""]","[""energetic"",""aggressive""]",high,balanced,"[""hardRock"",""heavyMetal""]"
 Metallica,Master of Puppets,Metallica - Master of Puppets.mp3,"rock, hard rock, metal, old school thrash, thrash metal","[Verse 1]
 End of passion play, crumbling away
 I'm your source of self-destruction
@@ -1661,8 +1661,8 @@ Master, master
 Just call my name 'cause I'll hear you scream
 Master, master
 
-[Laughter]"
-Ajmw,Count My Blessings,AJMW - Count My Blessings.mp3,"lo-fi beats, chillhop",[instrumental]
+[Laughter]","[""metal"",""rock""]","[""energetic"",""aggressive""]",variable,balanced,"[""hardRock"",""heavyMetal"",""punk""]"
+Ajmw,Count My Blessings,AJMW - Count My Blessings.mp3,"lo-fi beats, chillhop",[instrumental],"[""rnb""]","[""chilled""]",low,positive,[]
 Saib,Agua,Saib - Agua.mp3,"lo-fi beats, japanese chillhop, chillhop","verse
 Eu quis amar mas tive medo
 E quis salvar meu coração
@@ -1677,8 +1677,8 @@ verse
 Água de beber camará
 outro
 Eu quis amar mas tive medo
-E quis salvar meu coração"
-The Meters,Cissy Strut,THE METERS - Cissy Strut.mp3,"soul, p funk, new orleans funk, jazz funk, instrumental soul, funk",[Instrumental]
+E quis salvar meu coração",,,,,
+The Meters,Cissy Strut,THE METERS - Cissy Strut.mp3,"soul, p funk, new orleans funk, jazz funk, instrumental soul, funk",[Instrumental],,,,,
 Rufus and Chaka Khan,Tell Me Something Good,Chaka Khan and Rufus - Tell me something Good.mp3,"funk, soul, quiet storm, neo soul, disco","You ain't got no kind of feeling inside
 I got something that'll sho' 'nuff set your stuff on fire
 You refuse to put anything before your pride
@@ -1722,4 +1722,4 @@ Tell me something good
 (Oh, tell me, tell me, tell me)
 Tell me that you like it, yeah, yeah
 (Don't you like it baby?)
-Tell me something good"
+Tell me something good","[""funkSoul""]","[""sexy"",""chilled"",""happy""]",medium,positive,"[""funk"",""soul""]"
